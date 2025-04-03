@@ -26,6 +26,7 @@ Discover an array of incredible SEO (Search Engine Optimization) tools crafted t
 Covering everything from keyword research to link analysis, these tools serve as the Swiss army knives of the SEO realm.
 
 *   [Ahrefs](https://ahrefs.com/) - Elevate your rankings and drive more traffic.
+*   [OnRanko](https://onranko.com/) - A cutting-edge AI SEO Agents that transforms your search rankings through advanced keyword intelligence, competitor analysis, and algorithm-aware optimization strategies that deliver sustainable organic traffic growth and measurable ROI for your business.RetryClaude can make mistakes. Please double-check responses.
 *   [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Seamlessly integrate SEO, content marketing, competitor research, PPC, and social media marketing.
 *   [Seodity](https://seodity.com/) - A comprehensive SEO toolkit to fuel your business growth.
 *   [Ubersuggest](https://neilpatel.com/ubersuggest/) - Master the game of SEO and increase your website traffic.
@@ -61,6 +62,7 @@ Uncover high-potential keywords to captivate your audience and target effectivel
 Dive deep into your link profile to uncover growth opportunities and mitigate risks.
 
 *   [Majestic](https://majestic.com/) - Discover who links to your website effortlessly.
+*   [OnRanko](https://onranko.com/agents/backlink-ideas-generator) - Elevate your SEO strategy with our innovative Backlink Ideas Generator. Discover high-value linking opportunities and creative outreach strategies that build your site authority naturally. We help you identify and secure quality backlinks that boost your search engine rankings.
 *   [Monitor Backlinks](https://monitorbacklinks.com/) - Identify good and bad backlinks for you and your competition.
 *   [Respona](https://respona.com/) - Streamline your link building efforts with this all-in-one tool.
 *   [BacklinkGPT](https://www.backlinkgpt.com/) - Harness AI power for faster link building with personalized outreach messages.
@@ -119,6 +121,7 @@ Enhance your local presence and engage with your community audience effectively.
 
 Gain valuable insights into your site's performance and search traffic.
 
+*   [OnRanko](https://onranko.com/agents/seo-strategy-generator) - Improve your online reach with our AI-powered SEO Strategy Generator, providing effective plans for steady, organic traffic growth.
 *   [Google Search Console](https://search.google.com/search-console/about) - Leverage Search Console tools and reports to measure your site's Search traffic and performance.
 *   [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool designed to replace Google Search Console for Agencies and Affiliates.
 
